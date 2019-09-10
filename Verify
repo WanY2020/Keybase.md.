@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am wany2020 on github.
+  * I am freedom4us (https://keybase.io/freedom4us) on keybase.
+  * I have a public key ASDdT-zM0kkTvoZTeRwkJZq-C_-yC1YbPLJe0kLnagHzgwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dd4fecccd24913be8653791c24259abe0bffb20b561b3cb25ed242e76a01f3830a",
+      "host": "keybase.io",
+      "kid": "0120dd4fecccd24913be8653791c24259abe0bffb20b561b3cb25ed242e76a01f3830a",
+      "uid": "db61447d7e221a094a540956fac3bd19",
+      "username": "freedom4us"
+    },
+    "merkle_root": {
+      "ctime": 1568107679,
+      "hash": "0dd7cafe0bae6052320b893b5b0673fd13bd3ac87193e9ca513bcd8551b97e0176ec9dadc62959d0309ae96b8be6eac8369c0a969def134c529d3dfd709c2e86",
+      "hash_meta": "bcf4162739279f1f6b57ee5b3a852fe792354e3ac967b0c269fa060cdb2abab9",
+      "seqno": 6362055
+    },
+    "service": {
+      "entropy": "SSe0JdD7I6mHbsHURIN9pdCF",
+      "name": "github",
+      "username": "wany2020"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568107682,
+  "expire_in": 504576000,
+  "prev": "f0267a44ec4233ca3e55b358a6eb9c1ad814a17cfd1b97f6f5c919673c1daad9",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASDdT-zM0kkTvoZTeRwkJZq-C_-yC1YbPLJe0kLnagHzgwo](https://keybase.io/freedom4us), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3U/szNJJE76GU3kcJCWavgv/sgtWGzyyXtJC52oB84MKp3BheWxvYWTESpcCB8Qg8CZ6ROxCM8o+VbNYpuucGtgUoXz9G5f29ckZZzwdqtnEIJQ+uev8QcqbTy55FDSHGlUKZK85iBmC4dwpzvGRwq//AgHCo3NpZ8RA1w153/qJwb53k7xJ1KkScRWemiCPJxmQZh7zGbnRo/V20pwf8aelSLTK4t/9/hrIkge5AjMbEpmNJb4c2YaUAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP7Y/n+IPir1B+REiEenylzhmfd9XShQ1wliDu08AkOTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/freedom4us
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id freedom4us
+```
